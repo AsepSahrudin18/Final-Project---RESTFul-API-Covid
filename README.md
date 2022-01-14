@@ -1,2 +1,9 @@
 # Final-Project---RESTFul-API-Covid
-Final Project
+
+
+## Deskripsi
+* Membangun RESTFul API untuk mendata pasien Covid.
+* Stack
+- Menggunakan Framework Laravel.
+- Menggunakan MySQL Database.
+- Menggunakan Arsitektur REST
