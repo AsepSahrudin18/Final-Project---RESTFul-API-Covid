@@ -3,7 +3,8 @@
 
 ## Deskripsi
 * Membangun RESTFul API untuk mendata pasien Covid.
-* Stack
+
+## Stack :
 - Menggunakan Framework Laravel.
 - Menggunakan MySQL Database.
 - Menggunakan Arsitektur REST
